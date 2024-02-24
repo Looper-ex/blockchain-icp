@@ -1,1 +1,1 @@
-# BlockChainICP
+# BlockChain ICP
