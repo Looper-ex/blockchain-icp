@@ -10,7 +10,7 @@
   ],
   "scripts": {
     "build": "web pack",
-    "prebuild": "dfx generate",
+    "prebuild": "dfx generete",
     "start": "webpack serve --mode development --env development",
     "deploy:local": "dfx deploy --network==local",
     "deploy:ic": "dfx deploy --network=ic",
