@@ -1,7 +1,7 @@
 {
   "canisters": {
     "chitkara_backend": {
-      "main": "src/chitkara_backend/main.mo",
+      "main": "src/chitkara_backend/main.mon",
       "type": "motoko"
     },
     "chitkara_frontend": {
