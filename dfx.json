@@ -15,7 +15,7 @@
         "src/chitkara_frontend/assets",
         "dist/chitkara_frontend/"
       ],
-      "type": "assets",
+      "type": "assets"
     }
   },
   "defaults":  {
