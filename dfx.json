@@ -20,7 +20,7 @@
   },
   "defaults":  {
     "build": {
-      "args": ""
+      "args": " "
       "packtool": " "
     }
   },
